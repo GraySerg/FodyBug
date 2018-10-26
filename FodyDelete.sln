@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FodyDelete", "FodyDelete\FodyDelete.csproj", "{8A040AE7-5314-4A55-99AF-00E01E625F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shareddll", "Shareddll\Shareddll.csproj", "{92D502EB-0757-4E80-95FB-366E3C1DCE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Local|Any CPU = Local|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A040AE7-5314-4A55-99AF-00E01E625F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A040AE7-5314-4A55-99AF-00E01E625F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A040AE7-5314-4A55-99AF-00E01E625F9F}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{8A040AE7-5314-4A55-99AF-00E01E625F9F}.Local|Any CPU.Build.0 = Local|Any CPU
+		{8A040AE7-5314-4A55-99AF-00E01E625F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A040AE7-5314-4A55-99AF-00E01E625F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D502EB-0757-4E80-95FB-366E3C1DCE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D502EB-0757-4E80-95FB-366E3C1DCE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D502EB-0757-4E80-95FB-366E3C1DCE0F}.Local|Any CPU.ActiveCfg = Local|Any CPU
+		{92D502EB-0757-4E80-95FB-366E3C1DCE0F}.Local|Any CPU.Build.0 = Local|Any CPU
+		{92D502EB-0757-4E80-95FB-366E3C1DCE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D502EB-0757-4E80-95FB-366E3C1DCE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630F9E19-CFEB-410B-A71C-A956F94BB13F}
+	EndGlobalSection
+EndGlobal
